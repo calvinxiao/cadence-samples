@@ -31,3 +31,5 @@ require (
 	google.golang.org/grpc v1.23.1 // indirect
 	gopkg.in/yaml.v2 v2.2.2
 )
+
+replace go.uber.org/cadence => /Users/enderd/cadence-client
